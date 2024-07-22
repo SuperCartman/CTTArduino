@@ -14,7 +14,7 @@
           "url": "https://github.com/SuperCartman/CTTArduino/raw/main/ctt-arduino-1.0.0.zip",
           "archiveFileName": "ctt-boards-1.0.0.zip",
           "checksum": "SHA-256:6ea5291a4fb40dd6251dc1d03455abda0e1717ba9ba7b9f155c1603eb8a24b30",
-          "size": "500000",
+          "size": "50562",
           "boards": [
             {"name": "Node Solar 328PB"}
           ],
